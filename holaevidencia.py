@@ -16,4 +16,10 @@ def saludarItaliano(nombre):
     print ("Ciao "+ nombre) 
 saludarItaliano("Giovanni")
 
+def ElevarAlCubo(numero):
+    return numero**3
+resultado = ElevarAlCubo(3)
+print (resultado) 
+
+
 
