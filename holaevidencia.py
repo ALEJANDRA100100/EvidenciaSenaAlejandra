@@ -12,4 +12,8 @@ def saludarFrances(nombre):
 
 saludarFrances("Lucrecia")
 
+def saludarItaliano(nombre):
+    print ("Ciao "+ nombre) 
+saludarItaliano("Giovanni")
+
 
