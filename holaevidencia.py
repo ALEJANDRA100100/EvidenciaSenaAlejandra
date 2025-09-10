@@ -43,3 +43,9 @@ resultado = dividir(20, 5)
 print (resultado)   
 
 
+def potencia(base, exponente):
+    return base ** exponente
+resultado = potencia(2, 4)
+print (resultado)
+
+
